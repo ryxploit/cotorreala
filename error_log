@@ -1,0 +1,2 @@
+[25-May-2017 05:13:17 America/New_York] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/u234618/public_html/karlosleon/cotorreala/index.php on line 51
+[25-May-2017 05:13:17 America/New_York] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/u234618/public_html/karlosleon/cotorreala/index.php on line 59
